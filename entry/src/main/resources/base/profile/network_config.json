@@ -1,0 +1,8 @@
+
+  {
+    "network_security_config": {
+      "cleartext_traffic_config": {
+        "cleartext_traffic_permitted": true
+      }
+    }
+  }
